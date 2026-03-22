@@ -22,4 +22,4 @@ Problems are primarily sourced from LeetCode and are selected to ensure coverage
 • These explanations are created to reinforce conceptual understanding and support peer-level learning.
 
 **Reference**
-Video Explanation: < >
+Video Explanation: < https://youtu.be/fBY1koSBt0w?si=2midRkdgpCTEdn74 >
