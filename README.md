@@ -17,7 +17,7 @@ Problems are primarily sourced from LeetCode and are selected to ensure coverage
   - time complexity
   - space complexity
     
-# Suupplementary Learning Material
+# Supplementary Learning Material
 • A subset of problems is accompanied by concise video explanations focused on intuition, state formulation, and time–space complexity analysis.
 • These explanations are created to reinforce conceptual understanding and support peer-level learning.
 
